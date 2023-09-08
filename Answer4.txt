@@ -1,0 +1,42 @@
+Anser 4: Tag ->HTML uses a system of "tags" to define the structure and layout of web pages.
+ Tags are the building blocks of HTML documents and consist of angle brackets 
+enclosing specific keywords.
+These tags provide instructions to web browsers on how to display the content.
+An HTML tag is composed of an opening tag and, in some cases, a closing tag. The opening tag starts with
+the less-than symbol (<), followed by the tag name, and ends with a greater-than symbol (>). The closing
+tag is similar, but it also includes a forward slash (/) before the tag name.
+For Example:
+Opening tag: <tagname>
+Closing tag: </tagname>
+HTML tags can be broadly categorised into two types:
+ 
+1-Paired Tags (or Container Tags):
+Paired tags have both an opening and a closing tag and can contain other HTML elements and text within
+them. They define a specific section or structure in the web page. Some common paired tags include:
+Some common examples are <html>, <head>, <p>, <span> etc...
+2-Singular Tags (or Void Tags):
+In HTML, some are self-closing tags or void tags because they don't require a separate closing tag. These
+elements are used for elements that don't contain any content or don't have a closing counterpart.
+Example: <img/>, <input/>, <br/>, and <meta/> etc.
+
+
+Element: HTML elements are the building blocks of an HTML document. HTML elements 
+consist of a start tag, an end tag (if applicable), and content in between the tags.
+The start tag defines the beginning of an HTML element, and the end tag defines 
+the end of an HTML element.
+Each HTML element has a specific structure that defines its behaviour and 
+appearance on a web page.
+
+Ex: - <opening tag>content </close tag>
+ <h1>We can write content here</h1>
+
+Here is a breakdown of the anatomy of an HTML element:
+
+1-Opening tag - This is the opening tag that defines the beginning of an HTML element.
+ It is enclosed in angle brackets (< >)
+
+2- Content - This is the text or other data that appears between the start and end
+ tags of an HTML element.Some HTML elements do not require content and are self-closing
+
+3- Closing tag - This is the closing tag that defines the end of an HTML element. It is enclosed in angle
+brackets with a forward slash (/) before the element name.
